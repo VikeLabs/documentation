@@ -1,6 +1,6 @@
 {
-  "label": "Panel 1",
-  "position": 2,
+  "label": "Backend",
+  "position": 3,
   "link": {
     "type": "generated-index"
   }

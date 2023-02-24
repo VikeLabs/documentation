@@ -1,6 +1,6 @@
 {
-  "label": "Panel 2",
-  "position": 3,
+  "label": "UI Components",
+  "position": 1,
   "link": {
     "type": "generated-index"
   }
