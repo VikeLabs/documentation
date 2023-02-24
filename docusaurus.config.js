@@ -60,6 +60,12 @@ const config = {
             sidebarId: 'vikelabsCa', 
             label: 'Vikelabs.ca',    
           },
+          {
+            type: 'docSidebar',  
+            position: 'left',
+            sidebarId: 'template', 
+            label: 'Template',    
+          },
         ],
       },
 
